@@ -1,4 +1,4 @@
-# Hi, I’m Parry Zhang
+# Hi, I’m Parry!
 
 Learning software development and building practical projects.
 
